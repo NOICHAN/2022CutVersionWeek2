@@ -77,12 +77,6 @@ p {
   font-size: 24px;
 }
 
-a {
-  text-decoration: none;
-  color: #fff;
-  font-size: 24px;
-}
-
 .mb-1-5 {
   margin-bottom: 12px;
 }
@@ -278,5 +272,15 @@ a {
 
 .contact {
   padding: 64px 0;
+}
+
+.contact a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 24px;
+}
+
+.contact a:hover {
+  color: rgba(168, 223, 248, 0.868);
 }
 /*# sourceMappingURL=all.css.map */
